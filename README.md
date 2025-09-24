@@ -5,4 +5,4 @@ Data Analysis Dashboard - (Python/Pandas/Streamlit)
 - [2020-2024 Fantasy Football](https://github.com/4Mia/2020-2024_Fantasy_Football)
 
 ## 📚Practice
-- [Pandas ZTMS2](pandas-exercises.ipynb)
+- [Pandas ZTMS2](https://github.com/4Mia/Practice/blob/main/pandas-exercises.ipynb)
