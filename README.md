@@ -6,3 +6,6 @@ Data Analysis Dashboard - (Python/Pandas/Streamlit)
 
 ## 📚Practice
 - Pandas
+
+## 📚Cheatsheets
+- Pandas - doc/cheatsheet/Pandas_Cheat_Sheet.pdf
