@@ -6,4 +6,4 @@ Data Analysis Dashboard - (Python/Pandas/Streamlit)
 
 ## 📚Practice
 - [Pandas ZTMS2](https://github.com/4Mia/Practice/blob/main/pandas-exercises.ipynb)
-- [NumPy ZTMS2](https://github.com/4Mia/Practice/blob/main/pandas-exercises.ipynb)
+- [NumPy ZTMS2](https://github.com/4Mia/Practice/blob/main/numpy-exercises.ipynb)
