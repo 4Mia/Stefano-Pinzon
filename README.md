@@ -1,5 +1,5 @@
 # Hi, I'm Stefano
-# [Transitioning to Tech Sales | KAM | CS Student (AI/ML focus)](https://www.linkedin.com/in/stefano-pinzon-9214702a7/)
+# [Transitioning to Tech | KAM | CS Student(AI/ML focus)](https://www.linkedin.com/in/stefano-pinzon-9214702a7/)
 
 ## 📈Projects
 ### (Draft) Business Command Center - Cloud + AI for Hospitality & Retail  
