@@ -3,7 +3,7 @@
 
 ## 📈Projects
 ### Business Command Center - Cloud + AI for Hospitality & Retail  
-An end-to-end AI-powered operations dashboard for two real businesses. System consolidates POS data, forecasting models, and compliance reminders into a single multi-tenant SaaS-style platform hosted on AWS
+An end-to-end AI-powered operations dashboard for two real businesses. System consolidates POS data, forecasting models, and compliance reminders into a single multi-tenant SaaS-style platform hosted on AWS (AWS|Python|Streamlit)
 
 ## 📚Practice
 - [Algo-Training](https://github.com/4Mia/Algo-Training.git)
