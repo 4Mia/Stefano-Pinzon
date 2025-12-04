@@ -9,3 +9,4 @@ An end-to-end AI-powered operations dashboard for two real businesses. System co
 - [Algo-Training](https://github.com/4Mia/Algo-Training.git)
 - [Pandas ZTMS2](https://github.com/4Mia/Practice/blob/main/pandas-exercises.ipynb)
 - [NumPy ZTMS2](https://github.com/4Mia/Practice/blob/main/numpy-exercises.ipynb)
+- [MatPlotlib ZTMS2]()
