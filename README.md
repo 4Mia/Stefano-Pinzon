@@ -1,5 +1,5 @@
 # Hi, I'm Stefano
-# [Transitioning to Tech | KAM | CS Student(AI/ML focus)](https://www.linkedin.com/in/stefano-pinzon-9214702a7/)
+# [Transitioning to Tech | KAM | Product Mgr | CS Student(AI/ML focus)](https://www.linkedin.com/in/stefano-pinzon-9214702a7/)
 
 ## 📈Projects
 ### [Customer Churn Prediction Model - Telecom Retention Strategy](https://github.com/4Mia/Customer-Churn-Predition-Model-Telecom-Retention-Strategy.git)
